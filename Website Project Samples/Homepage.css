@@ -1,0 +1,52 @@
+
+body {
+	background: url(./Graphics/background.png) no-repeat center fixed;
+	background-size: cover;
+	position: relative;
+	top: 0;
+	padding: 0px;
+}
+.container {
+	/* Light Interior Color */
+	background-color: #737373;
+	min-height: 200px;
+}
+.navbar-brand {
+	padding: 0px;
+}
+.navbar-brand img {
+	height: 100%;
+	padding: 15px;
+	width: auto;
+}
+.navbar-btn {
+	height: 100%;
+}
+#side_nav {
+	position: absolute;
+	height: 100px;
+	width: 10px;
+	max-height: 200px;
+}
+#side_nav span {
+	font-size: large;
+	right: 8px;
+}
+.dropdown-menu {
+	left: 35px;
+	top: 0px;
+}
+#mid_page h3 {
+	text-align: center;
+}
+#t_date {
+	text-align: center;
+}
+.multiple-items {
+	margin: 0px auto;
+	padding: 0px;
+}
+#slide {
+	position: relative;
+	top: 10%;
+}

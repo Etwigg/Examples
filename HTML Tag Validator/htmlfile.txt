@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<link rel = "stylesheet" title = "basic style" type = "text/css"
+	href = "index.css" media = 'all' />
+<html>
+<head> 
+	<title>Index</title>
+</head>
+<body>
+<h1>Index</h1>
+<h2>Ethan Wiggins</h2>
+<h3>Ecw583</h3>
+<table class = t1 style='width:100%'>
+	<caption>Ethan Wiggins: CS 329E Assignments</caption>
+	<tr>
+		<th>
+			Exercise Number
+		</th>
+		<th>
+			Description
+		</th>
+		<th>
+			Date Completed
+		</th>
+	</tr>
+	<tr>
+		<td><a href="Final Project/Homepage.php">Project Phase VI</a></td>
+		<td>Project Phase VI</td>
+		<td>12/13/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk16/hwk16.html">HWK16</a></td>
+		<td>Assignment 16: User Registration in AJAX</td>
+		<td>11/28/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk15/hwk15.php">HWK15</a></td>
+		<td>Assignment 15: Student Records</td>
+		<td>11/28/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk14/hwk14.php">HWK14</a></td>
+		<td>Assignment 14: Quiz 2</td>
+		<td>11/18/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk13/homepage.php">HWK13</a></td>
+		<td>Assignment 13: Cookies</td>
+		<td>11/14/16</td>
+	</tr>
+	<tr>
+		<td><a href="Final Project/Homepage.php">Project Phase IV</a></td>
+		<td>Project Phase IV</td>
+		<td>11/11/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk12/hwk12.php">HWK12</a></td>
+		<td>Assignment 12: Sign-Up Sheet</td>
+		<td>11/5/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk11/jigsaw.html">HWK11</a></td>
+		<td>Assignment 11: Jigsaw Puzzle</td>
+		<td>10/31/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk10/hwk10.html">HWK10</a></td>
+		<td>Assignment 10: Memory Game</td>
+		<td>10/26/16</td>
+	</tr>
+	<tr>
+		<td><a href="Final Project/Homepage.">Project Phase III</a></td>
+		<td>Project Phase III</td>
+		<td>10/20/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk9/hwk9.html">HWK9</a></td>
+		<td>Assignment 9: Quiz</td>
+		<td>10/17/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk8/hwk8.html">HWK8</a></td>
+		<td>Assignment 8: Game of 15</td>
+		<td>10/14/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk7/hwk7.html">HWK7</a></td>
+		<td>Assignment 7: Mortgage Calculator</td>
+		<td>10/10/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk6/travel_show.html">HWK6</a></td>
+		<td>Assignment 6: Travel Show</td>
+		<td>10/1/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk5/hwk5.html">HWK5</a></td>
+		<td>Assignment 5: Random Images</td>
+		<td>9/30/16</td>
+	</tr>
+	<tr>
+		<td><a href="hwk4/hwk4.html">HWK4</a></td>
+		<td>Assignment 4: Newspaper</td>
+		<td>9/25/16</td>
+	</tr>
+	<tr>
+		<td><a href='hwk3/hwk3.html'>HWK3</a></td>
+		<td>Project 3.1: Share Your Travels</td> 
+		<td>9/22/16</td>
+	</tr>
+	<tr>
+		<td><a href='hwk2/hwk2.html'>HWK2</a></td>
+		<td>Project 2: Book Rep Customer Relations Management</td>
+		<td>9/20/16</td>
+	</tr>
+
+</table>
+</body>
+</html>

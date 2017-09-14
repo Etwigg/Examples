@@ -1,0 +1,28 @@
+.person-container {
+	font-size: 18px;
+	border-width: 0px;
+}
+
+.person-img {
+	height: 100px;
+	border-radius: 20%;
+	margin-bottom: 12px;
+}
+
+.bio-paragraph {
+	font-size: 12px;
+}
+
+.bio-container {
+	padding-left: 0px;
+	height: 200px;
+}
+
+.stat-item {
+	font-size: 15px;
+}
+
+a{
+	color: black;
+	font-size: 15px;
+}
